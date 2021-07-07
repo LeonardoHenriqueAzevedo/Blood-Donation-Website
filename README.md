@@ -3,10 +3,10 @@
 </h1>
 <h2 align="center"> Blood Donation Website </h2>
 
-# ✔️Project
+# ✔️ Project
 A website to find persons to donate blood, register them and after this we can pick the information they passed to us to contact for the blood donation.
 
-# 💻Technologies
+# 💻 Technologies
 ## Front End
 - **HTML**
 - **CSS**
@@ -16,3 +16,12 @@ A website to find persons to donate blood, register them and after this we can p
 - **Node.JS**
   - With Express, Nodemon and Nunjucks
 - **PostgreSQL**
+
+# 🕹️ How To Use
+```bash
+# Install the dependencies 
+npm install
+
+# Run the app
+npm start
+```
