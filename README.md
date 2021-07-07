@@ -35,3 +35,6 @@ npm install
 # Run the app
 npm start
 ```
+
+# 📝 License
+This project have the license of the [MIT](./LICENSE).
