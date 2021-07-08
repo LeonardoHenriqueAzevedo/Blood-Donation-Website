@@ -37,4 +37,4 @@ npm start
 ```
 
 # 📝 License
-This project have the license of the [MIT](./LICENSE). 
+This project have the license of the [MIT](./LICENSE).
